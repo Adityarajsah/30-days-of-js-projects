@@ -13,6 +13,7 @@ Welcome to the **30 Days of JavaScript Projects!** This repository contains 30 m
 **Day 3:** Image Slider <br/>
 **Day 4:** Form Validation <br/>
 **Day 5:** Word Counter <br/>
+**Day 6:** Stop Watch <br/>
 
 
 ## 🛠 Technologies Used
