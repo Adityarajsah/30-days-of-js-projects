@@ -15,7 +15,8 @@ Welcome to the **30 Days of JavaScript Projects!** This repository contains 30 m
 **Day 5:** Word Counter <br/>
 **Day 6:** Stop Watch <br/>
 **Day 7:** Temperature converter <br/>
-**Day 8:** Character limit <br/>
+**Day 8:** Character limit <br/> 
+**Day 9:** Rock Paper Scissor <br/>
 
 
 ## 🛠 Technologies Used
