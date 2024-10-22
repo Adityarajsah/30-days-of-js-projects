@@ -18,6 +18,8 @@ Welcome to the **30 Days of JavaScript Projects!** This repository contains 30 m
 **Day 8:** Character limit <br/> 
 **Day 9:** Rock Paper Scissor <br/>
 **Day 10:** Funny Joke Generator <br/>
+**Day 11:** Password Generator <br/>
+**Day 10:** Background Color Changer <br/>
 
 
 ## 🛠 Technologies Used
