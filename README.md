@@ -21,7 +21,8 @@ Welcome to the **30 Days of JavaScript Projects!** This repository contains 30 m
 **Day 11:** Password Generator <br/>
 **Day 12:** Background Color Changer <br/>
 **Day 13:** Fetch Movie From API <br/>
-**Day 14:** Shopping Cart <br/>
+**Day 14:** Shopping Cart <br/> 
+**Day 15:** Accordian <br/>
 
 
 ## 🛠 Technologies Used
