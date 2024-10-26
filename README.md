@@ -23,6 +23,7 @@ Welcome to the **30 Days of JavaScript Projects!** This repository contains 30 m
 **Day 13:** Fetch Movie From API <br/>
 **Day 14:** Shopping Cart <br/> 
 **Day 15:** Accordian <br/>
+**Day 16:** Flash Card <br/>
 
 
 ## 🛠 Technologies Used
