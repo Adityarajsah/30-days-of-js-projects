@@ -24,6 +24,7 @@ Welcome to the **30 Days of JavaScript Projects!** This repository contains 30 m
 **Day 14:** Shopping Cart <br/> 
 **Day 15:** Accordian <br/>
 **Day 16:** Flash Card <br/>
+**Day 17:** Dice Roll Simulator <br/>
 
 
 ## 🛠 Technologies Used
