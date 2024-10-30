@@ -25,6 +25,7 @@ Welcome to the **30 Days of JavaScript Projects!** This repository contains 30 m
 **Day 15:** Accordian <br/>
 **Day 16:** Flash Card <br/>
 **Day 17:** Dice Roll Simulator <br/>
+**Day 18:** Dark/Light Toggle Mode <br/>
 
 
 ## 🛠 Technologies Used
