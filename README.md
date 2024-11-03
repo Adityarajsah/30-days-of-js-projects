@@ -27,6 +27,7 @@ Welcome to the **30 Days of JavaScript Projects!** This repository contains 30 m
 **Day 17:** Dice Roll Simulator <br/>
 **Day 18:** Dark/Light Toggle Mode <br/>
 **Day 19:** Palindrome Checker <br/>
+**Day 20:** Countdown Timer <br/>
 
 
 ## 🛠 Technologies Used
