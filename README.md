@@ -29,6 +29,7 @@ Welcome to the **30 Days of JavaScript Projects!** This repository contains 30 m
 **Day 19:** Palindrome Checker <br/>
 **Day 20:** Countdown Timer <br/>
 **Day 21:** Number Guessing <br/>
+**Day 22:** Tip Calculator <br/>
 
 
 ## 🛠 Technologies Used
