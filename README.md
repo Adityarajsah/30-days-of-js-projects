@@ -31,6 +31,7 @@ Welcome to the **30 Days of JavaScript Projects!** This repository contains 30 m
 **Day 21:** Number Guessing <br/>
 **Day 22:** Tip Calculator <br/>
 **Day 23:** Todo App <br/>
+**Day 24:** Calculator <br/>
 
 
 ## 🛠 Technologies Used
