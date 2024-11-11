@@ -33,6 +33,7 @@ Welcome to the **30 Days of JavaScript Projects!** This repository contains 30 m
 **Day 23:** Todo App <br/>
 **Day 24:** Calculator <br/>
 **Day 25:** Weather App <br/>
+**Day 26:** QR CODE GENERATOR <br/>
 
 
 ## 🛠 Technologies Used
